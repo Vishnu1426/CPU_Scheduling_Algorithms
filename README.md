@@ -11,7 +11,7 @@
  It stands for Round Robin. This has a time quanta (say q units) for execution. No process can remain in execution beyond the time quanta. Whichever process arrives first, it is executed for q units of time and if it still has some execution remaining, it is sent to the queue. The next process in queue is taken up for execution after that.
  
  # Program
- Input: Process ID, Arrival Time and Burst Time (Execution time)
+ Input: Process ID, Arrival Time and Burst Time (Execution time).
         All inputs to be assumed as integers
 
 Output: The execution table with the inputs and completion time, turn around time, and wait time.
