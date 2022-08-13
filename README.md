@@ -2,7 +2,7 @@
  FCFS, SJF and RR Algorithms using C
  
  # FCFS Algorithm
- It stands for First come first serve. Whichever process arrives first, it is executed first copletely and then the next in queue is executed afterwards.
+ It stands for First Come First Serve. Whichever process arrives first, it is executed first copletely and then the next in queue is executed afterwards.
  
  # SJF Algorithm
  It stands for Shortest Job First. Whichever job has the shortest execution time out of all the processes which have arrived, that processs is executed completely first. 
