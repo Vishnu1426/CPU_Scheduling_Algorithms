@@ -15,4 +15,4 @@
         All inputs to be assumed as integers
 
 Output: The execution table with the inputs and completion time, turn around time, and wait time.
-        The order of execution, average turn around time and average wait time when all the processes are considered.
+        The order of execution, average turn around time and average wait time when all the processes are considered is also displayed
